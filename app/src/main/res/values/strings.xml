@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anki Match</string>
+    <string name="queue_loading">Queue-Anfang: wird ermittelt …</string>
+    <string name="queue_none">Queue-Anfang: –</string>
+    <string name="queue_empty_speedrun">Queue-Anfang: keine fälligen Karten · Speedrun ist verfügbar</string>
+    <string name="queue_leading">Queue-Anfang: %1$d+ Karte(n) dieses Notiztyps</string>
+    <string name="queue_other_model">Queue-Anfang: zuerst kommt „%1$s“</string>
+</resources>
